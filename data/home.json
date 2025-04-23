@@ -61,40 +61,34 @@
   {
     "professional_experience": [
       {
-        "company_name": "Techno Outsource BD",
-        "work_experience": "2021 – 2022( 1 Year )",
+        "company_name": "Permitdeny Limited",
+        "work_experience": "2023 – Continue",
         "position": "Web Designer & Jr. Web Developer"
       },
       {
-        "company_name": "Wardan Tech Limited",
-        "work_experience": "2022 ( 6 Months )",
-        "position": "Jr. Web Develope"
-      },
-      {
-        "company_name": "SoftVence",
-        "work_experience": "2023 - Continue",
-        "position": "Team Leader (Web Application & Mobile App Development)"
+        "company_name": "EURO MERCHANT",
+        "work_experience": "2022 - 2023 (1 Year)",
+        "position": "IT Support Executive"
       }
     ]
   },
   {
     "training_experience": [
       {
-        "training_name": "Skill Develpment for Mobile Game & Applicatioin Project ( Internship )",
-        "training_period": "2019",
-        "training_institute": "Ticon, Workspace Infotech LTD."
+        "training_name": "CISCO CERTIFIED NETWORK ASSOCIATE",
+        "training_period": "2022",
+        "training_institute": "American International University- Bangladesh."
       }
     ]
   },
   {
     "about_me": {
-      "name": "Md.Ahasun Habib",
-      "my_self": "As a web designer and developer, Dedicated to assisting companies and startups in developing professional, business-oriented websites and implementing innovative solutions to address operational challenges, driving revenue generation. Proficient in Laravel, WordPress, Vue.js, and JavaScript, specializing in crafting efficient and scalable solutions with ease. Let's collaborate to elevate your online presence and business performance.",
-      "date_of_birth": "23 Jun 1998",
+      "name": "Md. Hafizur Rahman",
+      "my_self": "Highly motivated IT professional with a Master's in Information Technology and CCNA, HCIA-Datacom, MikroTik Certifications. Proven ability to manage networks, troubleshoot systems, designing, configuring, implementing, optimization, operation, maintenance, Deployment of a network etc. Eager to leverage in-depth knowledge for a positive contribution in a dynamic organization. To work in a challenging job where I can fully utilize my skills and experience, which provides me scope for upward movement in my career and contribute to the growth of the organization and be a key performer of the organization.",
       "gender": "Male",
-      "mobile": "+8801966205647",
-      "email": "habibahasun019@gmail.com",
-      "address": "House No: 319, Road No: 13/A -Haji Ismail Dewan Road, Dewan City Mour, Azampur, Sector: 6, Dhaka, 1230",
+      "mobile": "+8801983839313",
+      "email": "hafiz.leon@gmail.com",
+      "address": "Vatara, Notun Bazar, Gulshan, Dhaka, 1212",
       "image": "assets/img/my_image.jpg"
     }
   },
@@ -477,8 +471,8 @@
   },
   {
     "contact": {
-      "email": "habibahasun019@gmail.com",
-      "mobile_number": "+8801966205647",
+      "email": "hafiz.leon@gmail.com",
+      "mobile_number": "+8801983-839313",
       "location": "https://goo.gl/maps/rwHUadVtYn7SPuwK6"
     }
   },
@@ -486,19 +480,15 @@
     "social_link": [
       {
         "icon": "bx bxl-linkedin-square",
-        "link": "https://www.linkedin.com/in/ahasu-h/"
+        "link": "https://www.linkedin.com/in/mdhafizzz/"
       },
       {
         "icon": "bx bxl-facebook-circle",
         "link": "https://www.facebook.com/ahasun.h"
       },
       {
-        "icon": "bx bxl-instagram-alt",
-        "link": "https://www.instagram.com/ahasun_habib/"
-      },
-      {
         "icon": "bx bxl-git",
-        "link": "https://github.com/Ahasun-h"
+        "link": "https://github.com/hafizleon"
       }
     ]
   }
