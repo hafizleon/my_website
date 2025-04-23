@@ -1,0 +1,501 @@
+[
+  {
+    "data": {
+      "name": "Md. Hafizur Rahman",
+      "profession": "System Engineer",
+      "complete_projects": "18",
+      "satisfied_customer": "110",
+      "background_image": "assets/img/root/hero-bg.png",
+      "cv_link": "https://drive.google.com/file/d/1-oB6E5T4B-YPvlLP55tbniTyuHyNxKND/view?usp=drive_link"
+    }
+  },
+  {
+    "service": {
+      "year_of_experience": "3",
+      "section_title": "Empowering companies, professional websites, innovative solutions, revenue growth, Full Stack web developer, Laravel, WordPress, Vue.js, JavaScript, ",
+      "section_title_spacial": "scalable business solutions.",
+      "service_item": [
+        {
+          "name": "System Administration",
+          "service_description": "Proficient in managing Linux and Windows servers, user access, scheduled backups, and system hardening for optimized security and performance."
+        },
+        {
+          "name": "Project Management",
+          "service_description": "Experienced in planning, executing, and overseeing IT infrastructure projects including server deployment, Design and Implementation Plan for Full Network Systems and Infrastructure"
+        },
+        {
+          "name": "Monitoring & Security",
+          "service_description": "Skilled in deploying monitoring tools like Zabbix and Grafana to track system health and performance, along with implementing robust security protocols using firewalls, NGFW, Router, and vulnerability assessments."
+        },
+        {
+          "name": "Networking",
+          "service_description": "Hands-on expertise in configuring network devices, managing DNS/DHCP, setting up VPNs, and ensuring secure and efficient data transmission across LAN/WAN infrastructures."
+        }
+      ]
+    }
+  },
+  {
+    "education": [
+      {
+        "certification": " Professional Masters in Information Technology (PMIT)",
+        "session": "2023 - Present",
+        "institute_name": "Jahangirnagar University, Savar, Dhaka"
+      },
+      {
+        "certification": " Bachelor of Science in Information & Communication",
+        "session": "2017 - 2021",
+        "institute_name": "East West University (EWU), Dhaka"
+      },
+      {
+        "certification": " Higher Secondary Certificate (HSC) in Science",
+        "session": "2013 - 2015",
+        "institute_name": "BAF Shaheen College, Dhaka"
+      },
+      {
+        "certification": " Secondary School Certificate (SSC) in Science",
+        "session": "2011 - 2013",
+        "institute_name": "Nawab Habibullah Model School & College, Dhaka"
+      }
+    ]
+  },
+  {
+    "professional_experience": [
+      {
+        "company_name": "Permitdeny Limited",
+        "work_experience": "2024 – Continue",
+        "position": "System Support Specialist "
+      },
+      {
+        "company_name": "Permitdeny Limited",
+        "work_experience": "2023 – 2024",
+        "position": "Network Support Specialist "
+      },
+      {
+        "company_name": "EURO MERCHANT",
+        "work_experience": "2022 - 2023 (1 Year)",
+        "position": "IT Support Executive"
+      }
+    ]
+  },
+  {
+    "training_experience": [
+      {
+        "training_name": "CISCO CERTIFIED NETWORK ASSOCIATE",
+        "training_period": "2022",
+        "training_institute": "American International University- Bangladesh."
+      }
+    ]
+  },
+  {
+    "about_me": {
+      "name": "Md. Hafizur Rahman",
+      "my_self": "Highly motivated IT professional with a Master's in Information Technology and CCNA, HCIA-Datacom, MikroTik Certifications. Proven ability to manage networks, troubleshoot systems, designing, configuring, implementing, optimization, operation, maintenance, Deployment of a network etc. Eager to leverage in-depth knowledge for a positive contribution in a dynamic organization. To work in a challenging job where I can fully utilize my skills and experience, which provides me scope for upward movement in my career and contribute to the growth of the organization and be a key performer of the organization.",
+      "Date of Birth" : "08 May 1997"
+      "gender": "Male",
+      "mobile": "+8801983839313",
+      "email": "hafiz.leon@gmail.com",
+      "address": "Vatara, Notun Bazar, Gulshan, Dhaka, 1212",
+      "image": "assets/img/my_image1.jpg"
+    }
+  },
+  {
+    "portfolio": {
+      "portfolio_menu": [
+        {
+          "menu": "All",
+          "data_filter": "all"
+        },
+        {
+          "menu": "Web Design",
+          "data_filter": ".web_design"
+        },
+        {
+          "menu": "Wordpress",
+          "data_filter": ".wordpress"
+        },
+        {
+          "menu": "Web Application",
+          "data_filter": ".web_application"
+        },
+        {
+          "menu": "App Development",
+          "data_filter": ".app_development"
+        }
+      ],
+      "portfolio_item": [
+        {
+          "portfolio_image": "assets/img/portfolio/naioryo.png",
+          "portfolio_link": "https://www.naiyor.com.bd",
+          "portfolio_type": "web_design",
+          "stacks": [
+            {
+              "name": "HTML"
+            },
+            {
+              "name": "SCSS"
+            },
+            {
+              "name": "Js"
+            },
+            {
+              "name": "Bootstrap"
+            }
+          ]
+        },
+        {
+          "portfolio_image": "assets/img/portfolio/student_conner-min.png",
+          "portfolio_link": "https://www.studentcorner.co.uk/",
+          "portfolio_type": "web_design",
+          "stacks": [
+            {
+              "name": "HTML"
+            },
+            {
+              "name": "CSS"
+            },
+            {
+              "name": "Js"
+            }
+          ]
+        },
+        {
+          "portfolio_image": "assets/img/portfolio/techno_outsource.png",
+          "portfolio_link": "http://www.technooutsourcebd.com/",
+          "portfolio_type": "web_design",
+          "stacks": [
+            {
+              "name": "HTML"
+            },
+            {
+              "name": "CSS"
+            },
+            {
+              "name": "Js"
+            },
+            {
+              "name": "Bootstrap"
+            }
+          ]
+        },
+        {
+          "portfolio_image": "assets/img/portfolio/oneiroit.png",
+          "portfolio_link": "https://oneiroit.com/",
+          "portfolio_type": "web_application",
+          "stacks": [
+            {
+              "name": "laravel"
+            }
+          ]
+        },
+        {
+          "portfolio_image": "assets/img/portfolio/educationcounsel.png",
+          "portfolio_link": "https://www.educationcounsel.org.uk/",
+          "portfolio_type": "web_application",
+          "stacks": [
+            {
+              "name": "laravel"
+            }
+          ]
+        },
+        {
+          "portfolio_image": "assets/img/portfolio/cyber_com.png",
+          "portfolio_link": "https://cybercombd.com/",
+          "portfolio_type": "wordpress",
+          "stacks": [
+            {
+              "name": "Wordpress"
+            }
+          ]
+        },
+        {
+          "portfolio_image": "assets/img/portfolio/Elizabeth_Global_education-min.png",
+          "portfolio_link": "https://vas.smartofficemate.co.uk/",
+          "portfolio_type": "wordpress",
+          "stacks": [
+            {
+              "name": "Wordpress"
+            }
+          ]
+        },
+        {
+          "portfolio_image": "assets/img/portfolio/SIG-ProPerties-min.png",
+          "portfolio_link": "http://sigproperties.smartofficemate.co.uk/",
+          "portfolio_type": "wordpress",
+          "stacks": [
+            {
+              "name": "Wordpress"
+            }
+          ]
+        },
+        {
+          "portfolio_image": "assets/img/portfolio/luxuryprl.png",
+          "portfolio_link": "https://www.luxuryprl.com/",
+          "portfolio_type": "wordpress",
+          "stacks": [
+            {
+              "name": "Wordpress"
+            }
+          ]
+        },
+        {
+          "portfolio_image": "assets/img/portfolio/brandmarketbd.png",
+          "portfolio_link": "https://brandmarketbd.com/",
+          "portfolio_type": "wordpress",
+          "stacks": [
+            {
+              "name": "Wordpress"
+            }
+          ]
+        },
+        {
+          "portfolio_image": "assets/img/portfolio/ATS.png",
+          "portfolio_link": "http://atsdev.smartofficemate.co.uk/login",
+          "portfolio_type": "web_application",
+          "stacks": [
+            {
+              "name": "laravel"
+            }
+          ]
+        },
+        {
+          "portfolio_image": "assets/img/portfolio/bdtakah.png",
+          "portfolio_link": "http://clients.smartofficemate.co.uk",
+          "portfolio_type": "web_application",
+          "stacks": [
+            {
+              "name": "laravel"
+            }
+          ]
+        },
+        {
+          "portfolio_image": "assets/img/portfolio/ityadimart.png",
+          "portfolio_link": "https://ityadimart.com/",
+          "portfolio_type": "web_application",
+          "stacks": [
+            {
+              "name": "View Rendering"
+            }
+          ]
+        },
+        {
+          "portfolio_image": "assets/img/portfolio/food_club.png",
+          "portfolio_link": "https://play.google.com/store/apps/details?id=com.buyonia.foodclub",
+          "portfolio_type": "app_development",
+          "stacks": [
+            {
+              "name": "Android"
+            }
+          ]
+        },
+        {
+          "portfolio_image": "assets/img/portfolio/property_Rental.png",
+          "portfolio_link": "https://github.com/Ahasun-h/PropertyRental",
+          "portfolio_type": "app_development",
+          "stacks": [
+            {
+              "name": "Android"
+            }
+          ]
+        },
+        {
+          "portfolio_image": "assets/img/portfolio/Karigor.png",
+          "portfolio_link": "https://github.com/Ahasun-h/KarigorBangla",
+          "portfolio_type": "app_development",
+          "stacks": [
+            {
+              "name": "Android"
+            }
+          ]
+        },
+        {
+          "portfolio_image": "assets/img/portfolio/lets_chat.png",
+          "portfolio_link": "https://github.com/Ahasun-h/Lets_Chat",
+          "portfolio_type": "app_development",
+          "stacks": [
+            {
+              "name": "Android"
+            }
+          ]
+        },
+        {
+          "portfolio_image": "assets/img/portfolio/corona_update.png",
+          "portfolio_link": "https://github.com/Ahasun-h/CoronaUpdateToday",
+          "portfolio_type": "app_development",
+          "stacks": [
+            {
+              "name": "Android"
+            }
+          ]
+        },
+        {
+          "portfolio_image": "assets/img/portfolio/colinhartlieb.png",
+          "portfolio_link": "https://colinswolfpack.com",
+          "portfolio_type": "web_application",
+          "stacks": [
+            {
+              "name": "Laravel"
+            },
+            {
+              "name": "Project Planning"
+            },
+            {
+              "name": "Database Design"
+            }
+          ]
+        },
+        {
+          "portfolio_image": "assets/img/portfolio/bellscan.png",
+          "portfolio_link": "https://bellscan.com/",
+          "portfolio_type": "web_application",
+          "stacks": [
+            {
+              "name": "Laravel"
+            },
+            {
+              "name": "Project Planning"
+            },
+            {
+              "name": "Database Design"
+            }
+          ]
+        },
+        {
+          "portfolio_image": "assets/img/portfolio/smothermanlaw.png",
+          "portfolio_link": "http://smothermanlaw.com",
+          "portfolio_type": "wordpress",
+          "stacks": [
+            {
+              "name": "Wordpress"
+            },
+            {
+              "name": "Project Planning"
+            }
+          ]
+        },
+        {
+          "portfolio_image": "assets/img/portfolio/phonesavers.png",
+          "portfolio_link": "https://phonesavers.ie",
+          "portfolio_type": "wordpress",
+          "stacks": [
+            {
+              "name": "Wordpress"
+            }
+          ]
+        },
+        {
+          "portfolio_image": "assets/img/portfolio/wellthwell.png",
+          "portfolio_link": "https://wellthwell.com",
+          "portfolio_type": "wordpress",
+          "stacks": [
+            {
+              "name": "Wordpress"
+            }
+          ]
+        },
+        {
+          "portfolio_image": "assets/img/portfolio/virtualbones.png",
+          "portfolio_link": "https://virtualbones.com",
+          "portfolio_type": "wordpress",
+          "stacks": [
+            {
+              "name": "Wordpress"
+            }
+          ]
+        },
+        {
+          "portfolio_image": "assets/img/portfolio/virtualbones.png",
+          "portfolio_link": "https://virtualbones.com",
+          "portfolio_type": "wordpress",
+          "stacks": [
+            {
+              "name": "Wordpress"
+            }
+          ]
+        },
+        {
+          "portfolio_image": "assets/img/portfolio/eustaff.png",
+          "portfolio_link": "https://eustaff.se",
+          "portfolio_type": "wordpress",
+          "stacks": [
+            {
+              "name": "Wordpress"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "testimonial": {
+      "testimonial_item": [
+        {
+          "name": "Mahzabin Akter Sarna",
+          "position": "Founder, Loveableskin",
+          "content": "I have made so many deals with so many web designers, but only he is able to satisfy me with great professional work among all. Their quality of work is outstanding.",
+          "image": "assets/img/testimonials/manager.png"
+        },
+        {
+          "name": "Rocey Hasan",
+          "position": "Managing Director, MNS TEX Sourcing",
+          "content": "Quality and time are always important for me. I can assure anyone that, he is the most reliable tech person I have ever worked with. Hemaintain the best quality as much as possible and try their best to maintain the required deadline.",
+          "image": "assets/img/testimonials/rocy.jpg"
+        },
+        {
+          "name": "Nurul Alam Siddik Babu",
+          "position": "CEO, Brand Market BD",
+          "content": "Recently I have taken great support in learning about accessing my woo-commerce website. I am really amazed by his friendly and helpful behavior and excellent work on my website. His work is really satisfying.",
+          "image": "assets/img/testimonials/Nurul_Alam.jpg"
+        }
+      ],
+      "work_with": [
+        {
+          "name": "Loveableskin",
+          "image": "assets/img/client_logo/22.jpg"
+        },
+        {
+          "name": "MNS-TEX-Sourcing",
+          "image": "assets/img/client_logo/45.jpg"
+        },
+        {
+          "name": "brandmarketbd.com",
+          "image": "assets/img/client_logo/brandmarket.jpg"
+        },
+        {
+          "name": "NaiyorBD",
+          "image": "assets/img/client_logo/Naiyor-Logo.png"
+        },
+        {
+          "name": "TechNoOutSource",
+          "image": "assets/img/client_logo/techno.png"
+        },
+        {
+          "name": "Buyoniasoft",
+          "image": "assets/img/client_logo/buyoniasoft.png"
+        }
+      ]
+    }
+  },
+  {
+    "contact": {
+      "email": "hafiz.leon@gmail.com",
+      "mobile_number": "+8801983-839313",
+      "location": "https://goo.gl/maps/rwHUadVtYn7SPuwK6"
+    }
+  },
+  {
+    "social_link": [
+      {
+        "icon": "bx bxl-linkedin-square",
+        "link": "https://www.linkedin.com/in/mdhafizzz/"
+      },
+      {
+        "icon": "bx bxl-facebook-circle",
+        "link": "https://www.facebook.com/ahasun.h"
+      },
+      {
+        "icon": "bx bxl-git",
+        "link": "https://github.com/hafizleon"
+      }
+    ]
+  }
+]
