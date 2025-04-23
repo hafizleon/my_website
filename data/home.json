@@ -17,19 +17,19 @@
       "service_item": [
         {
           "name": "System Administration",
-          "service_description": "Web design means creating websites with a user-friendly structure and with an aesthetic approach."
+          "service_description": "Proficient in managing Linux and Windows servers, user access, scheduled backups, and system hardening for optimized security and performance."
         },
         {
           "name": "Project Management",
-          "service_description": "WordPress means creating websites with a user-friendly structure and with an aesthetic approach."
+          "service_description": "Experienced in planning, executing, and overseeing IT infrastructure projects including server deployment, Design and Implementation Plan for Full Network Systems and Infrastructure"
         },
         {
           "name": "Monitoring & Security",
-          "service_description": "With the world going mobile, the importance of apps is increasing by the day."
+          "service_description": "Skilled in deploying monitoring tools like Zabbix and Grafana to track system health and performance, along with implementing robust security protocols using firewalls, NGFW, Router, and vulnerability assessments."
         },
         {
           "name": "Networking",
-          "service_description": "Web Development consists of two segments front end development and backend development."
+          "service_description": "Hands-on expertise in configuring network devices, managing DNS/DHCP, setting up VPNs, and ensuring secure and efficient data transmission across LAN/WAN infrastructures."
         }
       ]
     }
@@ -37,19 +37,24 @@
   {
     "education": [
       {
-        "certification": "B.Sc in Computer Science & Engineering",
-        "session": "2016 - 2020",
-        "institute_name": "Institute of Science Trade and Technology (ISTT)"
+        "certification": " Professional Masters in Information Technology (PMIT)",
+        "session": "2023 - Present",
+        "institute_name": "Jahangirnagar University, Savar, Dhaka"
+      },
+      {
+        "certification": " Bachelor of Science in Information & Communication",
+        "session": "2017 - 2021",
+        "institute_name": "East West University (EWU), Dhaka"
       },
       {
         "certification": " Higher Secondary Certificate (HSC) in Science",
         "session": "2013 - 2015",
-        "institute_name": "Nawab Habibullah Model School & College"
+        "institute_name": "BAF Shaheen College, Dhaka"
       },
       {
-        "certification": "Secondary School Certificate (SSC) in Science",
+        "certification": " Secondary School Certificate (SSC) in Science",
         "session": "2011 - 2013",
-        "institute_name": "Nawab Habibullah Model School & College"
+        "institute_name": "Nawab Habibullah Model School & College, Dhaka"
       }
     ]
   },
