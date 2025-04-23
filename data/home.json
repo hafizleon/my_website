@@ -16,19 +16,19 @@
       "section_title_spacial": "scalable business solutions.",
       "service_item": [
         {
-          "name": "Web Design",
+          "name": "System Administration",
           "service_description": "Web design means creating websites with a user-friendly structure and with an aesthetic approach."
         },
         {
-          "name": "WordPress",
+          "name": "Project Management",
           "service_description": "WordPress means creating websites with a user-friendly structure and with an aesthetic approach."
         },
         {
-          "name": "App Development",
+          "name": "Monitoring & Security",
           "service_description": "With the world going mobile, the importance of apps is increasing by the day."
         },
         {
-          "name": "Web Development",
+          "name": "Networking",
           "service_description": "Web Development consists of two segments front end development and backend development."
         }
       ]
