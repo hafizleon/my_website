@@ -223,7 +223,6 @@ function aboutMe() {
   $.getJSON("data/home.json", function async(data) {
     document.getElementById("my_name").innerHTML = data[5].about_me.name;
     document.getElementById("about_me").innerHTML = data[5].about_me.my_self;
-    document.getElementById("dob").innerHTML = data[5].about_me.date_of_birth;
     document.getElementById("gender").innerHTML = data[5].about_me.gender;
     document.getElementById("mobile_number").innerHTML =
       data[5].about_me.mobile;
